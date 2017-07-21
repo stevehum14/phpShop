@@ -2,11 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4e794a16-1620-4197-a458-980b798ce25b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Goods" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Index/menu.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Index/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Common/Conf/config.php" afterPath="$PROJECT_DIR$/Application/Common/Conf/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="128082df-e6b0-43fd-b00e-4b1a38b067a1" name="Rejected commit: Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/Symbola.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/Symbola.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/Symbola.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/Symbola.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/addimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/alldeletebtnhoverskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/alldeletebtnupskin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/bface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/caret.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images/center_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/cface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/deletedisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/deleteenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/fface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula/images/formula.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/imglabel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/imglabel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/jxface2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images/left_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/link" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/listbackground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images/none_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/ok.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/pop-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images/right_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/rotateleftdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/rotateleftenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/rotaterightdisable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/rotaterightenable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/tface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/images/upload1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/images/upload2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/videologo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/wface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/yface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/STIXFontLicense2010.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/Symbola.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/Uploader.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/emotion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/emotion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula/formula.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula/formula.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula/formula.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/getContent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/imageUp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/link/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/mathquill.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/mathquill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/mathquill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbol-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralbolita-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/umeditor.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/css/umeditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/umeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/css/umeditor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/umeditor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/zh-cn.js" />
     </list>
     <ignored path="phpShop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,28 +158,18 @@
       <file leaf-file-name="GoodsController.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.916666" vertical-offset="38" max-vertical-offset="765">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state vertical-scroll-proportion="-11.875" vertical-offset="60" max-vertical-offset="765">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/main.html">
+      <file leaf-file-name="Model.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.7843137" vertical-offset="527" max-vertical-offset="1950">
-              <caret line="48" column="16" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.7058823" vertical-offset="1746" max-vertical-offset="4785">
-              <caret line="129" column="53" selection-start-line="129" selection-start-column="53" selection-end-line="129" selection-end-column="53" />
+            <state vertical-scroll-proportion="-3.7058823" vertical-offset="4791" max-vertical-offset="28620">
+              <caret line="340" column="37" selection-start-line="340" selection-start-column="23" selection-end-line="340" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -64,28 +178,28 @@
       <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="330">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoodsModel.class.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GoodsModel.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32125205" vertical-offset="0" max-vertical-offset="607">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="495">
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/add.html">
+      <file leaf-file-name="imageUp.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/imageUp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="2085">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,7 +212,11 @@
       <list>
         <option value="$PROJECT_DIR$/Application/Admin/View/Index/menu.html" />
         <option value="$PROJECT_DIR$/Application/Admin/Controller/Goods11Controller.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php" />
+        <option value="$PROJECT_DIR$/Application/Common/Conf/config.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php" />
       </list>
     </option>
@@ -135,7 +253,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,6 +281,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -182,7 +313,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
+              <option name="myItemId" value="Common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,7 +331,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
+              <option name="myItemId" value="Common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -208,118 +339,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpShop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,6 +353,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Public" />
       <recent name="$PROJECT_DIR$/Application/Admin/View/Goods" />
     </key>
   </component>
@@ -400,15 +423,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -438,12 +462,102 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <confirmMoveToFailedCommit value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="765">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15051" max-vertical-offset="28620">
+          <caret line="1028" column="28" selection-start-line="1028" selection-start-column="28" selection-end-line="1028" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Conf/convention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="402" max-vertical-offset="2475">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="330">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="330">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="2100">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="158" max-vertical-offset="900">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="28620">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="330">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
@@ -508,57 +622,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07413509" vertical-offset="0" max-vertical-offset="607">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        <state vertical-scroll-proportion="-3.7058823" vertical-offset="1746" max-vertical-offset="4785">
+          <caret line="129" column="53" selection-start-line="129" selection-start-column="53" selection-end-line="129" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="420">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7843137" vertical-offset="527" max-vertical-offset="1950">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="16" />
+        <state vertical-scroll-proportion="-1.7647059" vertical-offset="0" max-vertical-offset="1950">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Mode/Api/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34680134" vertical-offset="6724" max-vertical-offset="16590">
+          <caret line="470" column="9" selection-start-line="470" selection-start-column="9" selection-end-line="470" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="2100">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Index/menu.html">
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model/ViewModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7058823" vertical-offset="1746" max-vertical-offset="4785">
-          <caret line="129" column="53" selection-start-line="129" selection-start-column="53" selection-end-line="129" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.17676768" vertical-offset="0" max-vertical-offset="3600">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875" vertical-offset="60" max-vertical-offset="765">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32125205" vertical-offset="0" max-vertical-offset="607">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Conf/convention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43434343" vertical-offset="402" max-vertical-offset="2475">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="330">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.916666" vertical-offset="38" max-vertical-offset="765">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="2085">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state vertical-scroll-proportion="-3.7058823" vertical-offset="4791" max-vertical-offset="28620">
+          <caret line="340" column="37" selection-start-line="340" selection-start-column="23" selection-end-line="340" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32125205" vertical-offset="0" max-vertical-offset="607">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="495">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/imageUp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="631">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
