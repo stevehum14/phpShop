@@ -2,6 +2,413 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="4e794a16-1620-4197-a458-980b798ce25b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/Brand/2017-07-26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/HTML/4.6.0,6a4f34c6ab3b8633c0c10b9b3efd3d606c8a4484,1.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/URI/4.6.0,8d03c8ec0e84e7feb92afd4c0f1735841b5fdacf,1.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/CSS/4.6.0,a7ed9bbc4f5d1cc4eec93db5d31b474b58b039e9,1.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bdadb936b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bdd580452.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bde22e40d.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bdf9c996f.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/Brand/2017-07-26/5977d9a268665.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Brand" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/Brand" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Builder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/CSS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Decorator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI/Email" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/EntityLookup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Filter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/HTML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Interchange" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Lexer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Node" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Printer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/TagTransform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/URI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/VarParser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language/classes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/time/i18n" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language/messages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_0_5977bdadb936b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_0_5977bdd580452.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_0_5977bde22e40d.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_0_5977bdf9c996f.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_1_5977bdadb936b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_1_5977bdd580452.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_1_5977bde22e40d.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_1_5977bdf9c996f.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_2_5977bdadb936b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_2_5977bdd580452.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_2_5977bde22e40d.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_2_5977bdf9c996f.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_3_5977bdadb936b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_3_5977bdd580452.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_3_5977bde22e40d.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/thumb_3_5977bdf9c996f.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/time" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/AlphaValue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Arborize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.AllowedClasses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.AllowedFrameTargets.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRel.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRev.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.ClassUseCDATA.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.DefaultImageAlt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImageAlt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.DefaultTextDir.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.EnableID.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.ForbiddenClasses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklistRegexp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefixLocal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrCollections.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrValidator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.AutoParagraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.Custom.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.DisplayLinkURI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.Linkify.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.DocURL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.Exceptions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveSpansWithoutAttributes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector/AutoParagraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Background.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Background.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/BackgroundPosition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Bdo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/BdoDir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/BgColor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/Bool.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/BoolToCSS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Border.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Border.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/Controller/BrandController.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/Model/BrandModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.AllowImportant.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.AllowTricky.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.AllowedFonts.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.AllowedProperties.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.DefinitionRev.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.ForbiddenProperties.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.MaxImgLength.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.Proprietary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.Trusted.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/CSSDefinition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Printer/CSSDefinition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Cache.DefinitionImpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPath.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPermissions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/Chameleon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/Class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Decorator/Cleanup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/Clone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Node/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/CommonAttributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Composite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy/Composite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Printer/ConfigForm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Printer/ConfigForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Printer/ConfigForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Builder/ConfigSchema.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.AggressivelyFixLt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.AllowHostnameUnderscore.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.CollectErrors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.ColorKeywords.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.ConvertDocumentToFragment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.DirectLexLineNumberSyncInterval.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.DisableExcludes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.EnableIDNA.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.Encoding.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidChildren.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidTags.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.EscapeNonASCIICharacters.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.HiddenElements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.Language.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.LexerImpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.MaintainLineNumbers.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.NormalizeNewlines.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.RemoveInvalidImg.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.RemoveProcessingInstructions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.RemoveScriptContents.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy/Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/Custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Lexer/DOMLex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Decorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/DenyElementDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Lexer/DirectLex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Interchange/Directive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter/DisableExternal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter/DisableResources.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector/DisplayLinkURI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Node/Element.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI/Email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/Empty.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token/Empty.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token/End.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/Enum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Filter/ExtractStyleBlocks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.Custom.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Escaping.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Scope.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.TidyImpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.YouTube.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy/FixNesting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/VarParser/Flexible.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/TagTransform/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/FontFamily.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Forms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/FrameTarget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Allowed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedAttributes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedComments.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedCommentsRegexp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedElements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedModules.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Attr.Name.UseCDATA.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.BlockWrapper.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.CoreModules.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.CustomDoctype.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionID.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionRev.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Doctype.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.FlashAllowFullScreen.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenAttributes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenElements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.MaxImgLength.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Nofollow.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Parent.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Proprietary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeEmbed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeIframe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeObject.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeScripting.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Strict.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.TargetBlank.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.TidyAdd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.TidyLevel.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.TidyRemove.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Trusted.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.XHTML.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Printer/HTMLDefinition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI/Host.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter/HostBlacklist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/ID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI/IPv4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI/IPv6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Interchange/Id.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Ident.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/ImgRequired.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/ImgSpace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/ImportantDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/Integer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Interchange.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/InterchangeBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/Lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Legacy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Length.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/Length.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Length.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/LinkTypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector/Linkify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/List.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/List.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/ListStyle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter/MakeAbsolute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy/MakeWellFormed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Decorator/Memory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/MultiLength.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Multiple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter/Munge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/NameSync.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/VarParser/Native.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/Nmtokens.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Nofollow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Nofollow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/NonXMLCommonAttributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Null.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Number.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/Optional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.CommentScriptContents.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.FixInnerHTML.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.FlashCompat.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.Newline.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.SortAttr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.TidyFormat.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Lexer/PH5P.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/Percentage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/HTML/Pixels.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Presentation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Proprietary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Proprietary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector/PurifierLinkify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector/RemoveEmpty.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy/RemoveForeignElements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector/RemoveSpansWithoutAttributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/Required.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/SafeEmbed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/SafeEmbed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter/SafeIframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/SafeObject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/SafeObject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector/SafeObject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/SafeParam.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/SafeScripting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/ScriptRequired.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Scripting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Serializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/TagTransform/Simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI/Email/SimpleCheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token/Start.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Strict.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/StrictBlockquote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/StyleAttribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/Switch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ChildDef/Table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tables.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token/Tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Target.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/TargetBlank.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/TargetBlank.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache/Decorator/Template.php.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/Test.ForceNoIconv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Node/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/TextDecoration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrTransform/Textarea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Transitional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.AllowedSchemes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.Base.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefaultScheme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefinitionID.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefinitionRev.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.Disable.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DisableExternal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DisableExternalResources.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DisableResources.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.Host.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.HostBlacklist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.MakeAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.Munge.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.MungeResources.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.MungeSecretKey.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.OverrideAllowedSchemes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.SafeIframeRegexp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/URI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/AttrDef/CSS/URI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy/ValidateAttributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Validator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/ValidatorAtom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy/XHTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/Tidy/XHTMLAndHTML4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule/XMLCommonAttributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/Builder/Xml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Filter/YouTube.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Brand/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/datepicker-zh_cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Brand/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Goods/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language/classes/en-x-test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language/messages/en-x-test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language/messages/en-x-testmini.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language/messages/en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/EntityLookup/entities.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/ftp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Common/Common/function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/https.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/ConfigSchema/schema/info.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/jquery-1.7.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/jquery-ui-1.9.2.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/datetimepicker/time/i18n/jquery-ui-timepicker-addon-i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Brand/lst.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Application/Admin/View/Goods/lst.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/mailto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/news.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme/nntp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Admin/Js/tron.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/HTMLPurifier/DefinitionCache/Serializer/README" afterPath="$PROJECT_DIR$/library/HTMLPurifier/DefinitionCache/Serializer/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Common/Conf/config.php" afterPath="$PROJECT_DIR$/Application/Common/Conf/config.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="128082df-e6b0-43fd-b00e-4b1a38b067a1" name="Rejected commit: Default" comment="">
@@ -23,44 +430,24 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/close.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/copy.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/deletedisable.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/deleteenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/fface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula/images/formula.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/icons.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/formula/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/imglabel.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/imglabel.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/jxface2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images/left_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/link" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/listbackground.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/localimage.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/music.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/music.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/neweditor-tab-bg.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images/none_focus.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/ok.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/pop-bg.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video/images/right_focus.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/rotateleftdisable.png" />
@@ -68,7 +455,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/rotaterightdisable.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/rotaterightenable.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneral-webfont.woff" />
@@ -82,18 +468,13 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/stixgeneralitalic-webfont.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/tface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/en/images/upload.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn/images/upload.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/images/upload1.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/image/images/upload2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/video" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/themes/default/images/videologo.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/wface.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/dialogs/emotion/images/yface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/lang/zh-cn" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/stixgeneral-bundle/STIXFontLicense2010.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/third-party/mathquill/font/Symbola.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/Uploader.class.php" />
@@ -154,28 +535,8 @@
       <file leaf-file-name="GoodsController.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875" vertical-offset="60" max-vertical-offset="765">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Model.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.7058823" vertical-offset="4791" max-vertical-offset="28620">
-              <caret line="340" column="37" selection-start-line="340" selection-start-column="23" selection-end-line="340" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1229" max-vertical-offset="1800">
+              <caret line="107" column="33" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -184,18 +545,50 @@
       <file leaf-file-name="GoodsModel.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="495">
-              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="2355">
+              <caret line="79" column="37" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="37" />
+              <folding>
+                <marker date="1501019359000" expanded="true" signature="4278:4689" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandModel.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Admin/Model/BrandModel.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="1425">
+              <caret line="89" column="50" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imageUp.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/imageUp.php">
+      <file leaf-file-name="add.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Admin/View/Brand/add.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="525">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="600">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandController.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/BrandController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5770548" vertical-offset="803" max-vertical-offset="1410">
+              <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Common/Common/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="944" max-vertical-offset="1515">
+              <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -209,11 +602,19 @@
         <option value="$PROJECT_DIR$/Application/Admin/View/Index/menu.html" />
         <option value="$PROJECT_DIR$/Application/Admin/Controller/Goods11Controller.class.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Controller/IndexController.class.php" />
-        <option value="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" />
-        <option value="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" />
         <option value="$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php" />
+        <option value="$PROJECT_DIR$/Public/Admin/Js/tron.js" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Goods/add.html" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/layout.html" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Goods/lst.html" />
         <option value="$PROJECT_DIR$/Application/Common/Conf/config.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/View/Goods/edit.html" />
+        <option value="$PROJECT_DIR$/Application/Common/Common/function.php" />
         <option value="$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/Brand.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/Model/BrandModel.class.php" />
+        <option value="$PROJECT_DIR$/Application/Admin/Controller/BrandController.class.php" />
       </list>
     </option>
   </component>
@@ -249,6 +650,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -291,6 +693,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Uploads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Uploads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Brand" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017-07-26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -309,7 +755,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
+              <option name="myItemId" value="Admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,17 +773,86 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
+              <option name="myItemId" value="Admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Conf" />
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Brand" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpShop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,11 +861,15 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Public" />
+      <recent name="$PROJECT_DIR$/Application/Admin/View/Brand" />
       <recent name="$PROJECT_DIR$/Application/Admin/View/Goods" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Public" />
     </key>
   </component>
   <component name="RunManager">
@@ -397,6 +916,82 @@
           <option name="myVcsRoot" value="$PROJECT_DIR$" />
           <option name="myCopyRoot" value="$PROJECT_DIR$" />
         </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/DefinitionCache" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/EntityLookup" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Filter" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/HTMLModule" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Injector" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Language" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Lexer" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Node" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Printer" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Strategy" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/TagTransform" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/Token" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIFilter" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/URIScheme" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Htmlpurifier/HTMLPurifier/VarParser" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Public/datetimepicker" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Public/Uploads/Brand" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/Public/Uploads/goods" />
+        </SvnCopyRootSimple>
       </list>
     </option>
     <option name="myMoreRealMappingRoots">
@@ -428,27 +1023,49 @@
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -473,35 +1090,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="765">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15051" max-vertical-offset="28620">
-          <caret line="1028" column="28" selection-start-line="1028" selection-start-column="28" selection-end-line="1028" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThinkPHP/Conf/convention.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="402" max-vertical-offset="2475">
           <caret line="52" column="19" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +1101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="330">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,7 +1108,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="330">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
+          <folding>
+            <marker date="1501019359000" expanded="true" signature="4278:4689" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -525,7 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="2100">
           <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="28620">
           <caret line="15" column="11" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,7 +1140,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="330">
           <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,7 +1147,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1501019359000" expanded="true" signature="4278:4689" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,7 +1157,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,13 +1192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37300178" vertical-offset="0" max-vertical-offset="563">
           <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPHP/Common/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21818182" vertical-offset="465" max-vertical-offset="23220">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -653,14 +1237,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="2100">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model/ViewModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17676768" vertical-offset="0" max-vertical-offset="3600">
@@ -668,27 +1244,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
+    <entry file="file://$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/imageUp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875" vertical-offset="60" max-vertical-offset="765">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
+        <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="525">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+    <entry file="file://$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32125205" vertical-offset="0" max-vertical-offset="607">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="4230">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/umeditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2471" max-vertical-offset="3825">
+          <caret line="176" column="51" selection-start-line="175" selection-start-column="8" selection-end-line="176" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Upload.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.415385" vertical-offset="3132" max-vertical-offset="6405">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Common/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0353535" vertical-offset="0" max-vertical-offset="23220">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ThinkPHP/Conf/convention.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43434343" vertical-offset="402" max-vertical-offset="2475">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="19" />
-          <folding />
+        <state vertical-scroll-proportion="0.42328042" vertical-offset="0" max-vertical-offset="2475">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Admin/Styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4368932" vertical-offset="0" max-vertical-offset="12870">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Admin/Styles/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -696,30 +1304,152 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/datetimepicker/使用说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Admin/Js/tron.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="450">
+          <caret line="11" column="97" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="631">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1281" max-vertical-offset="2010">
+          <caret line="98" column="34" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/lst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1221" max-vertical-offset="2100">
+          <caret line="94" column="50" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Goods/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="1995">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7058823" vertical-offset="4791" max-vertical-offset="28620">
-          <caret line="340" column="37" selection-start-line="340" selection-start-column="23" selection-end-line="340" selection-end-column="37" />
+        <state vertical-scroll-proportion="-16.853535" vertical-offset="14766" max-vertical-offset="28620">
+          <caret line="325" column="27" selection-start-line="325" selection-start-column="27" selection-end-line="325" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bdf9c996f.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bde22e40d.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bdd580452.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Uploads/goods/2017-07-26/5977bdadb936b.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="420">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Brand/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="600">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/View/Brand/lst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60420316" vertical-offset="0" max-vertical-offset="705">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Mode/Lite/Model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47810858" vertical-offset="6267" max-vertical-offset="22245">
+          <caret line="444" column="36" selection-start-line="444" selection-start-column="30" selection-end-line="444" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="944" max-vertical-offset="1515">
+          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/Model/GoodsModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="495">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="2355">
+          <caret line="79" column="37" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="37" />
+          <folding>
+            <marker date="1501019359000" expanded="true" signature="4278:4689" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/GoodsController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1229" max-vertical-offset="1800">
+          <caret line="107" column="33" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/umeditor1_2_2-utf8-php/php/imageUp.php">
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Model/BrandModel.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="525">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="1425">
+          <caret line="89" column="50" selection-start-line="89" selection-start-column="50" selection-end-line="89" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/BrandController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5770548" vertical-offset="803" max-vertical-offset="1410">
+          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
           <folding />
         </state>
       </provider>

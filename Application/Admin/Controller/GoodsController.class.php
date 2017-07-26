@@ -19,7 +19,7 @@ class GoodsController extends Controller
             * $_POST：表单中原始的数据 ，I('post.')：过滤之后的$_POST的数据，过滤XSS攻击
             */
     
-            if($model->create(I('post'),1))
+            if($model->create(I('post'),1))//1,代表添加，2代表更新
             {
             // 插入到数据库中
             if($model->add())  // 在add()里又先调用了_before_insert方法
@@ -35,12 +35,81 @@ class GoodsController extends Controller
             // 由控制器显示错误信息,并在3秒跳回上一个页面
             $this->error($error);
         }
+        //设置页面信息
+        $this->assign(array(
+            '_page_btn_link'=>U('list'),
+            '_page_title'=>'添加新商品',
+            '_page_btn_name'=>'商品列表'
+        ));
         // 1.显示表单
         $this->display();
         }
-        public function lst(){
-        echo '商品列表';
+
+    /*
+    * 修改表单
+    */
+    public function edit(){
+        $id = I('get.id');//要修改的商品ID
+        $model = D("Goods");
+        // 判断用户是否提交了表单
+        if(IS_POST)
+        {
+
+            if($model->create(I('post'),2))//1,代表添加，2代表更新
+            {
+                // 插入到数据库中
+                if(FALSE !== $model->save())  //save()的返回值是，如果失败则返回0，如果成功返回受影响的行数，如果修改前和修改后相同则返回0
+                {
+                    // 显示成功信息并等待1秒之后跳转
+                    $this->success('操作成功！', U('lst'));
+                    exit;
+                }
+            }
+            // 如果走到 这说明上面失败了在这里处理失败的请求
+            // 从模型中取出失败的原因
+            $error = $model->getError();
+            // 由控制器显示错误信息,并在3秒跳回上一个页面
+            $this->error($error);
         }
+        $data = $model->find($id);
+        $this->assign('data',$data);
+        //设置页面信息
+        $this->assign(array(
+            '_page_btn_link'=>U('lst'),
+            '_page_title'=>'修改商品',
+            '_page_btn_name'=>'商品列表'
+        ));
+        // 1.显示表单
+        $this->display();
+    }
+
+    /**
+     * 商品列表页
+     */
+        public function lst(){
+            $model = D('Goods');
+            //返回数据和翻页
+            $data = $model->search();
+            $this->assign($data);
+            //设置页面信息
+            $this->assign(array(
+                '_page_btn_link'=>U('add'),
+                '_page_title'=>'商品列表',
+                '_page_btn_name'=>'添加新商品'
+            ));
+            $this->display();
+        }
+
+    /**
+     * 删除商品
+     */
+    public function delete(){
+        $model = D('Goods');
+       if(FALSE !==$model->delete(I('get.id')))
+           $this->success('删除成功！',U('lst'));
+        else
+            $this->error('删除失败！原因:'.$model->getError());
+    }
 }
 
 ?>

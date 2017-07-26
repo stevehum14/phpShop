@@ -11,4 +11,13 @@ return array(
     'DB_CHARSET' =>  'utf8',      // 数据库编码默认采用utf8
     'DEFAULT_FILTER'=>'trim,htmlspecialchars',//默认用于I函数
 
+    //**********图片的相关配置*******************
+    'IMAGE_CONFIG'=>array(
+        'maxSize'=>1024*1014,
+        'exts'=>array('jpg', 'gif', 'png', 'jpeg'),
+        'rootPath'=>'./Public/Uploads/',//上传图片保存的路径
+        'viewPath'=>'/Public/Uploads/',//显示图片的路径
+    ),
+
+
 );
