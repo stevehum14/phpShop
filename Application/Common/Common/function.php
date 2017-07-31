@@ -21,6 +21,32 @@ function removeXSS($data){
 
 }
 
+/**使用一个表中的数据制作下拉框
+ * @param $tableName 表名
+ * @param $selectName 下拉框名称
+ * @param $valueFieldName 下拉框提交的名称
+ * @param $textFieldName 下拉框提交的值
+ * @param $selectedValue 默认选择值
+ */
+function buildSelect($tableName, $selectName, $valueFieldName, $textFieldName, $selectedValue = '')
+{
+    $model = D($tableName);
+    $data = $model->field("$valueFieldName,$textFieldName")->select();
+    $select = "<select name='$selectName'><option value=''>请选择</option>";
+    foreach ($data as $k => $v)
+    {
+        $value = $v[$valueFieldName];
+        $text = $v[$textFieldName];
+        if($selectedValue && $selectedValue==$value)
+            $selected = 'selected="selected"';
+        else
+            $selected = '';
+        $select .= '<option '.$selected.' value="'.$value.'">'.$text.'</option>';
+    }
+    $select .= '</select>';
+    echo $select;
+}
+
 /**
  * 上传图片
  * @param $imgName 图片名称

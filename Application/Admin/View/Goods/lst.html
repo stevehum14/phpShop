@@ -3,6 +3,25 @@
     <form action="__ACTION__" METHOD="GET" name="searchForm">
         <!--<img src="__PUBLIC__/Admin/Images/icon_search.gif" width="26" height="22" border="0" alt="search" />-->
         <p>
+            <?php $cat_id = I('get.cat_id'); ?>
+            分类：
+            <select name="cat_id">
+                <option value="">选择分类</option>
+                <?php foreach ($catData as $k => $v):
+                if($cat_id== $v['id'])
+                $select = 'selected = selected';
+                else
+                $select = '';
+                ?>
+                <option <?php echo $select; ?> value="<?php echo $v['id']; ?>"><?php echo str_repeat('-', 8*$v['level']) . $v['cat_name']; ?></option>
+                <?php endforeach; ?>
+            </select>
+        </p>
+        <p>
+            品牌：
+            <?php buildSelect('Brand','brand_id','id','brand_name',I('get.brand_id')); ?>
+        </p>
+        <p>
             商品名称:
             <input type="text" name="gn" value="<?php echo I('get.gn'); ?>" size="60"/>
         </p>
@@ -73,6 +92,9 @@
         <table cellpadding="3" cellspacing="1">
             <tr>
                 <th>编号</th>
+                <th>主分类</th>
+                <th>扩展分类</th>
+                <th>品牌名称</th>
                 <th>商品名称</th>
                 <th>logo</th>
                 <!--<th>货号</th>-->
@@ -90,6 +112,9 @@
             <volist name="data" id="val">
             <tr class="tron">
                 <td align="center"><{$val.id}></td>
+                <td align="center">{$val.cat_name}</td>
+                <td align="center">{$val.ext_cat_name}</td>
+                <td align="center" class="first-cell"><span>{$val.brand_name}</span></td>
                 <td align="center" class="first-cell"><span><{$val.goods_name}></span></td>
                 <!--<td align="center"><span onclick=""><{$val.goods_sn}></span></td>-->
                 <td align="center"><?php showImage($val['sm_logo']) ?></td>

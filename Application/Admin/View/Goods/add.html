@@ -1,50 +1,65 @@
 <LAYOUT name="layout" />
 
+<style>
+    #ul_pic_list li{margin:5px;list-style-type:none;}
+    #cat_list{background:#EEE;margin:0;}
+    #cat_list li{margin:5px;}
+</style>
 <div class="tab-div">
     <div id="tabbar-div">
         <p>
-            <span class="tab-front" id="general-tab">通用信息</span>
+            <span class="tab-front" >通用信息</span>
+            <span class="tab-back" >商品描述</span>
+            <span class="tab-back" >会员价格</span>
+            <span class="tab-back" >商品属性</span>
+            <span class="tab-back" >商品相册</span>
         </p>
     </div>
     <div id="tabbody-div">
         <form enctype="multipart/form-data" action="__SELF__" method="post">
-            <table width="90%" id="general-table" align="center">
+            <!--基本信息-->
+            <table width="90%" class="tab_table" align="center">
+                <tr>
+                    <td class="label">所在品牌：</td>
+                    <td>
+                        <?php buildSelect('Brand','brand_id','id','brand_name'); ?>
+                    </td>
+
+                </tr>
                 <tr>
                     <td class="label">商品名称：</td>
                     <td><input type="text" name="goods_name" value=""size="30" />
                     <span class="require-field">*</span></td>
                 </tr>
-                <!--<tr>-->
-                    <!--<td class="label">商品货号： </td>-->
-                    <!--<td>-->
-                        <!--<input type="text" name="goods_sn" value="" size="20"/>-->
-                        <!--<span id="goods_sn_notice"></span><br />-->
-                        <!--<span class="notice-span"id="noticeGoodsSN">如果您不输入商品货号，系统将自动生成一个唯一的货号。</span>-->
-                    <!--</td>-->
-                <!--</tr>-->
-                <!--<tr>-->
-                    <!--<td class="label">商品分类：</td>-->
-                    <!--<td>-->
-                        <!--<select name="cat_id">-->
-                            <!--<option value="0">请选择...</option>-->
-                            <!--<foreach name="cat_list" item="val">-->
-                            <!--<option value="<{$val.cat_id}>"><{$val.lev|str_repeat='&nbsp;&nbsp;',###}><{$val.cat_name}></option>-->
-                            <!--</foreach>-->
-                        <!--</select>-->
-                        <!--<span class="require-field">*</span>-->
-                    <!--</td>-->
-                <!--</tr>-->
-                <!--<tr>-->
-                    <!--<td class="label">商品品牌：</td>-->
-                    <!--<td>-->
-                        <!--<select name="brand_id">-->
-                            <!--<option value="0">请选择...</option>-->
-                            <!--<foreach name="brand_list" item="val">-->
-                            <!--<option value="<{$val.brand_id}>"><{$val.brand_name}></option>-->
-                            <!--</foreach>-->
-                        <!--</select>-->
-                    <!--</td>-->
-                <!--</tr>-->
+                <tr>
+                    <td class="label">主分类：</td>
+                    <td>
+                        <select name="cat_id">
+                            <option value="">选择分类</option>
+                            <?php foreach ($catData as $k => $v): ?>
+                            <option value="<?php echo $v['id']; ?>"><?php echo str_repeat('-', 8*$v['level']) . $v['cat_name']; ?></option>
+                            <?php endforeach; ?>
+                        </select>
+                        <span class="require-field">*</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">扩展分类：<input type="button" id="btn_add_cat" value="添加一个" onclick="$('#cat_list').append($('#cat_list').find('li').eq(0).clone())" /></td>
+                    <td>
+                        <ul id="cat_list" style="list-style-type: none">
+                            <li>
+                                <select name="ext_cat_id[]">
+                                    <option value="">选择分类</option>
+                                    <?php foreach ($catData as $k => $v): ?>
+                                    <option value="<?php echo $v['id']; ?>"><?php echo str_repeat('-', 8*$v['level']) . $v['cat_name']; ?></option>
+                                    <?php endforeach; ?>
+                                </select>
+                            </li>
+
+                        </ul>
+
+                    </td>
+                </tr>
                 <tr>
                     <td class="label">市场售价：</td>
                     <td>
@@ -58,12 +73,7 @@
                         <span class="require-field">*</span>
                     </td>
                 </tr>
-                <!--<tr>-->
-                    <!--<td class="label">商品数量：</td>-->
-                    <!--<td>-->
-                        <!--<input type="text" name="goods_number" size="8" value=""/>-->
-                    <!--</td>-->
-                <!--</tr>-->
+
                 <tr>
                     <td class="label">是否上架：</td>
                     <td>
@@ -71,39 +81,39 @@
                         <input type="radio" name="is_on_sale" value="否"/> 否
                     </td>
                 </tr>
-                <!--<tr>-->
-                    <!--<td class="label">加入推荐：</td>-->
-                    <!--<td>-->
-                        <!--<input type="checkbox" name="is_best" value="1" /> 精品 -->
-                        <!--<input type="checkbox" name="is_new" value="1" /> 新品 -->
-                        <!--<input type="checkbox" name="is_hot" value="1" /> 热销-->
-                    <!--</td>-->
-                <!--</tr>-->
-                <!--<tr>-->
-                    <!--<td class="label">推荐排序：</td>-->
-                    <!--<td>-->
-                        <!--<input type="text" name="sort_order" size="5" value="100"/>-->
-                    <!--</td>-->
-                <!--</tr>-->
-
-                <!--<tr>-->
-                    <!--<td class="label">商品关键词：</td>-->
-                    <!--<td>-->
-                        <!--<input type="text" name="keywords" value="" size="40" /> 用空格分隔-->
-                    <!--</td>-->
-                <!--</tr>-->
                 <tr>
                     <td class="label">商品图片：</td>
                     <td>
                         <input type="file" name="logo" size="35" />
                     </td>
                 </tr>
+
+            </table>
+            <!--商品描述-->
+            <table width="90%" class="tab_table" style="display: none" align="center">
                 <tr>
                     <td class="label">商品描述：</td>
                     <td>
                         <textarea id="goods_desc" name="goods_desc" ></textarea>
                     </td>
                 </tr>
+            </table>
+            <!--会员价格-->
+            <table width="90%" class="tab_table" style="display: none"  align="center">
+                <tr>
+                    <td class="label">会员价格：</td>
+                    <td>
+                        <?php foreach($mlData as $k=>$v){  ?>
+                        <?php echo $v['level_name']; ?>:$<input name="member_price[<?php echo $v['id']; ?>]" type="text" value="" size="0">元<br />
+                        <?php } ?>
+                    </td>
+                </tr>
+            </table>
+            <!--商品属性-->
+            <table width="90%" class="tab_table" style="display: none"  align="center">
+            </table>
+            <!--商品相册-->
+            <table width="90%" class="tab_table" style="display: none"  align="center">
             </table>
             <div class="button-div">
                 <input type="submit" value=" 确定 " class="button"/>
@@ -124,5 +134,18 @@
     UM.getEditor('goods_desc',{
         initialFrameWidth:"100%", //初始化编辑器宽度,默认500
         initialFrameHeight:350  //初始化编辑器高度,默认500
+    });
+    /******** 切换的代码 *******/
+    $("#tabbar-div p span").click(function(){
+        // 点击的第几个按钮
+        var i = $(this).index();
+        // 先隐藏所有的table
+        $(".tab_table").hide();
+        // 显示第i个table
+        $(".tab_table").eq(i).show();
+        // 先取消原按钮的选中状态
+        $(".tab-front").removeClass("tab-front").addClass("tab-back");
+        // 设置当前按钮选中
+        $(this).removeClass("tab-back").addClass("tab-front");
     });
 </script>

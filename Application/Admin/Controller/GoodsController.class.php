@@ -35,9 +35,20 @@ class GoodsController extends Controller
             // 由控制器显示错误信息,并在3秒跳回上一个页面
             $this->error($error);
         }
+        //取出所有的品牌
+//        $brandModel = D('Brand');
+//        $brandData = $brandModel->select();
+        //取出所有的会员级别
+        $mlModel = D('MemberLevel');
+        $mlData = $mlModel->select();
+        //取出商品分类
+        $catModel = D('Category');
+        $catData = $catModel->getTree();
         //设置页面信息
         $this->assign(array(
-            '_page_btn_link'=>U('list'),
+            'catData'=>$catData,
+            'mlData'=>$mlData,
+            '_page_btn_link'=>U('lst'),
             '_page_title'=>'添加新商品',
             '_page_btn_name'=>'商品列表'
         ));
@@ -73,8 +84,16 @@ class GoodsController extends Controller
         }
         $data = $model->find($id);
         $this->assign('data',$data);
+        //取出所有的品牌
+//        $brandModel = D('Brand');
+//        $brandData = $brandModel->select();
+        /// 取出所有的分类做下拉框
+        $catModel = D('Category');
+        $catData= $catModel->getTree();
         //设置页面信息
         $this->assign(array(
+            'catData'=>$catData,
+//            'brandData'=>$brandData,
             '_page_btn_link'=>U('lst'),
             '_page_title'=>'修改商品',
             '_page_btn_name'=>'商品列表'
@@ -91,8 +110,12 @@ class GoodsController extends Controller
             //返回数据和翻页
             $data = $model->search();
             $this->assign($data);
+            //取出商品分类
+            $catModel = D('Category');
+            $catData = $catModel->getTree();
             //设置页面信息
             $this->assign(array(
+                'catData'=>$catData,
                 '_page_btn_link'=>U('add'),
                 '_page_title'=>'商品列表',
                 '_page_btn_name'=>'添加新商品'
